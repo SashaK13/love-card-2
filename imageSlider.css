@@ -1,0 +1,45 @@
+h1 {
+  color: red;
+  margin-left: 395px;
+  font-weight: bold;
+  font-family: 'Dancing Script';
+  text-align: center;
+}
+
+img {
+  width: 98%;
+  height: 98%;
+}
+.loveImages {
+  max-width: 1000px;
+  position: relative;
+  margin-left: 100px;
+}
+
+.myPics {
+  width: 100%;
+}
+
+.btn1 {
+  position: absolute;
+  top: 45%;
+  left: 0;
+}
+
+.btn2 {
+  position: absolute;
+  top: 45%;
+  right: 0;
+}
+
+#buttonLeft {
+  padding: 10px;
+  border-radius: 30px;
+  background-color: white;
+}
+
+#buttonRight {
+  padding: 10px;
+  border-radius: 30px;
+  background-color: white;
+}
